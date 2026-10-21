@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nv2hw8s6pn-droid.github.io/ala-qadak/sitemap.xml
